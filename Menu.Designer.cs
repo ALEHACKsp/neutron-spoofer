@@ -869,7 +869,7 @@
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(116, 18);
             this.label24.TabIndex = 394;
-            this.label24.Text = "Free Spoofers";
+            this.label24.Text = "Spoofers";
             // 
             // label23
             // 
